@@ -11,6 +11,7 @@ dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha38
 2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM
 9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" cro
             ssorigin="anonymous"></script>
+    <script src="https://cdn.ckeditor.com/ckeditor5/41.2.1/classic/ckeditor.js"></script>
 </head>
 <body>
     <cfparam name="tool" default="addEdit" />
